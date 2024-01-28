@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseCache", "ResponseCache\ResponseCache.csproj", "{C8B0F237-CFB8-4EB6-8240-4882F5893453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseCacheMinimalApis", "ResponseCacheMinimalApis\ResponseCacheMinimalApis.csproj", "{BC6DAEB3-67A9-4439-9F0A-17675992812E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B0F237-CFB8-4EB6-8240-4882F5893453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B0F237-CFB8-4EB6-8240-4882F5893453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B0F237-CFB8-4EB6-8240-4882F5893453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B0F237-CFB8-4EB6-8240-4882F5893453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6DAEB3-67A9-4439-9F0A-17675992812E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6DAEB3-67A9-4439-9F0A-17675992812E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6DAEB3-67A9-4439-9F0A-17675992812E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6DAEB3-67A9-4439-9F0A-17675992812E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

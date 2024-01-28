@@ -1,0 +1,6 @@
+@ResponseCache_HostAddress = http://localhost:5098
+
+GET {{ResponseCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

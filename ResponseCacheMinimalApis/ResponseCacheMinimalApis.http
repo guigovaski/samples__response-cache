@@ -1,0 +1,6 @@
+@ResponseCacheMinimalApis_HostAddress = http://localhost:5123
+
+GET {{ResponseCacheMinimalApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
